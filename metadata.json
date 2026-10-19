@@ -1,0 +1,6 @@
+{
+  "name": "Editor GEDCOM Genealógico",
+  "description": "Editor avançado de arquivos GEDCOM com suporte a datas e locais de casamento, integração com Git e exportação de ascendentes diretos de @I1@.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
